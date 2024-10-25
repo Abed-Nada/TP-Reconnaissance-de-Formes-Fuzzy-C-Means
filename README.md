@@ -9,4 +9,4 @@ Le TP comprend deux fichiers principaux :
    - Lien vers le rapport : [Lien vers le fichier rapport.pdf](./TP_Reconnaissance_de_Forme_Abed.pdf)
 
 2. **Notebook Jupyter** (`.ipynb`) - Contient le code Python pour l'implémentation pratique de FCM. 
-   - Lien vers le notebook : [Lien vers le fichier implémentation.ipynb](./Fuzzy_Cmean (1).ipynb)
+   - Lien vers le notebook : [Lien vers le fichier implémentation.ipynb](./Fuzzy_Cmean(1).ipynb)
