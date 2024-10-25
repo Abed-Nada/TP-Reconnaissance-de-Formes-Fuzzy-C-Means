@@ -6,7 +6,7 @@ Ce TP se concentre sur l'utilisation de l'algorithme de **Fuzzy C-Means (FCM)** 
 
 Le TP comprend deux fichiers principaux :
 1. **Rapport** - Détaille l'implémentation de l'algorithme FCM.
-   - Lien vers le rapport : [Lien vers le fichier rapport.pdf](./TP_Reconnaissance_de_Forme_Abed.pdf)
+   - Lien vers le rapport : [Lien vers le fichier rapport.pdf](./TP_Reconnaissance_de_Forme_Abed_Nada.pdf)
 
 2. **Notebook Jupyter** (`.ipynb`) - Contient le code Python pour l'implémentation pratique de FCM. 
-   - Lien vers le notebook : [Lien vers le fichier implémentation.ipynb](./Fuzzy_Cmean (1).ipynb)
+   - Lien vers le notebook : [Lien vers le fichier implémentation.ipynb](./Fuzzy_Cmean_Clustering.ipynb)
